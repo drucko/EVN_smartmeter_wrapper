@@ -1,0 +1,6 @@
+settings
+
+__pycache__
+evn_session.pkl
+venv/
+*~
