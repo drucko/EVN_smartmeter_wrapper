@@ -4,3 +4,4 @@ __pycache__
 evn_session.pkl
 venv/
 *~
+settings.py
